@@ -10,7 +10,7 @@
 >
 > Um exemplo de Landing Page para portfólio de Web Design. Interface responsiva, apresentação animada com JavaScript, e uma galeria de imagens com popovers individuais para legendas.
 >
-> [Clique aqui e veja o projeto.](https://conatto.github.io/wdesign-portfolio)
+> [Clique aqui e veja o projeto.](https://leondaro.github.io/webdesign-portfolio/)
 
 > ## Licença:
 > 
