@@ -6,7 +6,7 @@
     "dev": "nodemon app.js",
     "sass": "npx sass static/css/scss/custom.scss:static/css/style.css"
   },
-  "author": "Conatto",
+  "author": "Leondaro",
   "license": "ISC",
   "keywords": [],
   "devDependencies": {
